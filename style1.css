@@ -7,7 +7,12 @@ body {
     margin: 0;
     padding: 20;
     text-align: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #f5f7fa, #e4ebf5);
 }
+
+
+
 header{
     background-color:cadetblue;
     color: #fff;
@@ -21,6 +26,10 @@ footer{
     font-size: 0.9rem;
     color: #fff;
     background-color: cadetblue;
+}
+
+.img-container {
+    transition: transform 0.3s ease; box-shadow: 0.3s ease;
 }
 
 button {

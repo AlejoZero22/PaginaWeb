@@ -5,6 +5,11 @@ header{
     padding: 24px 16px;
 }
 
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a047c, #e4ebf5);
+}
+
 nav{
     display: flex;
     justify-content: center;
@@ -48,6 +53,10 @@ nav ul {
 }
 .contenedor-img:hover .descripcion {
     opacity: 1;
+}
+
+.contenedor-img {
+    transition: transform 0.3s ease; box-shadow: 0.3s ease;
 }
 
 button {

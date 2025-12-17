@@ -1,0 +1,12 @@
+se crea una pagina Web de video juegos y consolas 
+para ello usamos javascript con css
+
+usando la metodologia enseñada en clases tanto en css y con .js
+en el .js especialmente use un querySelectorALL que nos devuelve todos los elementos que coinsidan con lo que pongamos dentro de el parentesis en este caso un contenedor 
+en el cual tenemos las imagenes usadas para la pagina 
+
+luego metimos un forEach que que recore dicha lista 
+y un card que solo puse este nombre por carta pero en ingles card jajaja y representa una imagen 
+
+luego el mas improtante jaja el mouseleave y over es la animacion para cuando el mouse pase por la foto esta haga un pequeño salto (controlado y no repentino jaja)
+para que se vea lindo 
